@@ -1,0 +1,11 @@
+fun auth() {
+ sdvkjdsvk
+}
+
+fun signIn() {
+ // sign in 
+}
+
+fun signOut() {
+// sign out
+}
