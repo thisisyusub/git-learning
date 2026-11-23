@@ -9,3 +9,7 @@ fun signIn() {
 fun signOut() {
 // sign out
 }
+
+fun register() {
+ // it will register new user
+}
